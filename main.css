@@ -1,0 +1,102 @@
+.HappyBirthday{
+            font-family: 'Jua', sans-serif;
+            color: orangered;
+            -webkit-text-stroke: black 1px;
+            position: absolute;
+            right: 450px;
+            font-size: 50px;
+            top: -25px;
+            text-shadow: 2px 2px 4px #000000;
+            
+            }
+
+.banner-img {
+             background-image: url(1680_1050.jpg);
+            -webkit-background-size: cover;
+            background-size: cover;
+             background-repeat: no-repeat;
+            background-position: center center;
+            height: 100%;
+            filter: blur(2px);
+            -webkit-filter: blur(2px); }
+
+
+
+
+body,html{
+    height: 100%;
+    margin: 0;
+    padding: 5;
+         
+}
+*/
+.banner-text {
+    
+    position: absolute;
+    font-family: 'Jua', sans-serif;
+    color: white;
+    -webkit-text-stroke: black 1px;
+    position: absolute;
+    right: 530px;
+    font-size: 50px;
+    top: -25px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+.image-epic {
+    
+    position: absolute;
+    top: 50px;
+}
+/*
+.robux {
+    background: white;
+    width: 50%;
+    padding: 40px;
+    margin: 100px auto;
+}
+*/
+p {
+    
+    font-size: 25px;
+    font-family: Luckiest Guy;
+    position: absolute;
+    top: 50px;
+    right: 10px;
+    
+    text-shadow: 2px 2px 4px #000000;
+    color: white;
+    opacity: 100%;
+}
+.epic{
+    background: lightcoral;
+    padding: 40px;
+    border: 2px black;
+    padding-bottom: 500px;
+    padding-right: 5px;
+    position: absolute;
+    top: 75px;
+    right: 500px;
+    padding-left: 500px;
+    right: 50px;
+    text-align: right;
+    opacity: 90%;
+        
+}
+a {
+    position: absolute;
+    top: 300px;
+    display: inline-block;
+    padding: 10px 50px;
+    border: 2px solid;
+    font-size: 50px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Balsamiq Sans', cursive;
+    text-shadow: 2px 2px 4px #000000;
+    right: 800px;
+    
+    
+    
+}
